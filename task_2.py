@@ -3,7 +3,7 @@ a = float(input("Введіть (a): "))
 b = float(input("Введіть (b): "))
 
 # Виводимо результати обчислень
-print("\nРезультати обчислень:\n")
+print("\nresults:\n")
 print(f"{a} + {b} = {a + b}")
 print(f"{a} - {b} = {a - b}")
 print(f"{a} * {b} = {a * b}")
